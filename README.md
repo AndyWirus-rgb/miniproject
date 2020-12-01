@@ -9,5 +9,5 @@ Ouverture de porte et comptage de personnes dans une piéce
 - PIN :
   - Romain  :
   - Ianis   : 7;8;
-  - Clément : 
+  - Clément : 9;10;11;12;13
   - Aurore  : 2;3;
