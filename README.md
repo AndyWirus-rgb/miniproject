@@ -7,7 +7,7 @@ Ouverture de porte et comptage de personnes dans une piéce
 - CLEMENT = mise en ouvre du lecteur de badge RFID MF RC522 , reconnaissance des tags , incremantation du nombre de personne dans le serveur 
 
 - PIN :
--- Romain  :
--- Ianis   :
--- Clément :
--- Aurore  :
+  - Romain  :
+  - Ianis   : 7;8;
+  - Clément : 
+  - Aurore  : 2;3;
