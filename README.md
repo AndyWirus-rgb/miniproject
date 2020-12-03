@@ -10,4 +10,4 @@ Ouverture de porte et comptage de personnes dans une piéce
   - Romain  :
   - Ianis   : 7;8;
   - Clément : 
-  - Aurore  : 2;3;
+  - Aurore  : 2;3;4;
