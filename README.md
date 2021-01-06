@@ -12,6 +12,4 @@ Ouverture de porte et comptage de personnes dans une piéce
   - Clément : 
   - Aurore  : 2;3;4;
 
-LED :
--VERT  : A0
--ROUGE : A1
+
