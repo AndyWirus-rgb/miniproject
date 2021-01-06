@@ -13,8 +13,8 @@ Ouverture de porte et comptage de personnes dans une piéce
   - Aurore  : 2;3;4;
 
 -LED :
--VERT  : A0
--ROUGE : A1
+  -VERT  : A0;
+  -ROUGE : A1;
 
 
 ///////////////////////////////////10/12/2020///////////////////////////////////////////
